@@ -1,0 +1,29 @@
+{
+    "name": "contact-app-cli",
+    "version": "1.0.0",
+    "description": "Simple Contact App build by Command Line in NodeJS",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "DimasRS",
+    "license": "MIT",
+    "type": "module",
+    "dependencies": {
+        "chalk": "^5.4.1",
+        "validator": "^13.15.15",
+        "yargs": "^18.0.0"
+    },
+    "devDependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/dimaskuy/contact-app-cli.git"
+    },
+    "keywords": [
+        "cli"
+    ],
+    "bugs": {
+        "url": "https://github.com/dimaskuy/contact-app-cli/issues"
+    },
+    "homepage": "https://github.com/dimaskuy/contact-app-cli#readme"
+}
